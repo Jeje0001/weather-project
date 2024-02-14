@@ -13,8 +13,9 @@ body{
     max-width: 470px;
     background:purple;
     color: white;
-    margin:20px;
+    margin:100px auto 0;
     border-radius: 20px;
+    padding: 40px 35px ;
 }
 
 /* input{
