@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "poppins",sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:black ;
+}
+.card{
+    width: 90%;
+    max-width: 470px;
+    background:purple;
+    color: white;
+    margin:20px;
+    border-radius: 20px;
+}
+
+/* input{
+    color: red;
+} */
